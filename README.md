@@ -1,7 +1,7 @@
 ### About me
 
 - 👀 Hi there, I'm Alexandru Maxim 👋 <br />
-- 🙋‍♂️ I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. ( ͡° ͜ʖ ͡°)
+- 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. ( ͡° ͜ʖ ͡°)
 - 🌱 I’m currently trying to learn everything I can 🤣
 - ⚡ Fun fact: I am a videogame collector and I like to build computers
 
