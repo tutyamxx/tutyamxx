@@ -27,6 +27,7 @@
 <img align="left" alt="Travis CI" width="26px" src="https://avatars1.githubusercontent.com/ml/4?s=140&v=4"/>
 
 <br />
+<br />
 
 ### Stats
 
