@@ -31,4 +31,4 @@
 
 ### Stats
 
-![tutyamxx GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&theme=dark)
+![tutyamxx GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&theme=cobalt)
