@@ -26,7 +26,9 @@
 <img align="left" alt="Heroku" width="26px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4"/>
 <img align="left" alt="Travis CI" width="26px" src="https://avatars1.githubusercontent.com/ml/4?s=140&v=4"/>
 
-<br />
-<br />
+<br>
+<br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&theme=cobalt"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&theme=cobalt"/>
+</p>
