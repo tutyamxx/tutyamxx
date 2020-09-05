@@ -3,7 +3,7 @@
 - 👀 Hi there, I'm Alexandru Maxim 👋 <br />
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. ( ͡° ͜ʖ ͡°)
 - 🌱 I’m currently trying to learn everything I can 🤣
-- 🍒 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
+- 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
 
 ### Languages and Tools:
 
