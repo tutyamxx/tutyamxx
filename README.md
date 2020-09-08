@@ -1,6 +1,6 @@
 ### About me
 
-<p align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" height="150"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="495" height="195"></p>
 
 - 👀 Hi there, I'm Alexandru Maxim 👋 <br />
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. ( ͡° ͜ʖ ͡°)
