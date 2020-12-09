@@ -1,7 +1,7 @@
 ### About me
 
 - 👀 Hi there, I'm Alex 👋 <br />
-- 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. ( ͡° ͜ʖ ͡°)
+- 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. <img alt="OK" width="32px" height="32px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
 - 🌱 I’m currently trying to learn everything I can 🤣
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
 
