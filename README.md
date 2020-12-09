@@ -32,7 +32,7 @@
 
 <img align="left" alt="Windows 10 Pro" height="30px" width="30px" src="https://sm.pcmag.com/pcmag_in/photo/default/windows-10-placeholder_uyqw.jpg" />
 <img align="left" alt="Ubuntu" height="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-<img align="left" alt="Mac OS" height="30px" width="30px" src="https://i.imgur.com/0IX7LsM.png" />
+<img align="left" alt="Mac OS" height="30px" width="30px" src="https://i.imgur.com/yXOVLm2.png" />
 <img align="left" alt="Raspberry Pi" height="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 
 <br>
