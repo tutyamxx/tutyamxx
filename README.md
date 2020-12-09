@@ -1,6 +1,6 @@
 ### About me
 
-- 👀 Hi there, I'm Alex 👋 <br />
+- 👀 Hi there, I'm Alex 👋
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. <img alt="OK" width="32px" height="32px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
 - 🌱 I’m currently trying to learn everything I can 🤣
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
@@ -25,9 +25,6 @@
 <img align="left" alt="C#" width="26px" src="https://camo.githubusercontent.com/0617f4657fef12e8d16db45b8d73def73144b09f/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" />
 <img align="left" alt="Heroku" width="26px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />
 <img align="left" alt="Travis CI" width="26px" src="https://avatars1.githubusercontent.com/ml/4?s=140&v=4" />
-
-<br>
-<br>
 
 ### Operating Systems Used:
 
