@@ -26,6 +26,8 @@
 <img align="left" alt="Heroku" width="26px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />
 <img align="left" alt="Travis CI" width="26px" src="https://avatars1.githubusercontent.com/ml/4?s=140&v=4" />
 
+<br />
+
 ### Operating Systems Used:
 
 <img align="left" alt="Windows 10 Pro" height="30px" width="30px" src="https://sm.pcmag.com/pcmag_in/photo/default/windows-10-placeholder_uyqw.jpg" />
