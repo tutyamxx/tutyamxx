@@ -1,6 +1,6 @@
 ### About me
 
-- 👀 Hi there, I'm Alexandru Maxim 👋 <br />
+- 👀 Hi there, I'm Alex 👋 <br />
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. ( ͡° ͜ʖ ͡°)
 - 🌱 I’m currently trying to learn everything I can 🤣
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
