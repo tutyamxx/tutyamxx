@@ -1,4 +1,4 @@
-### About me
+## About me
 
 - 👀 Hi there, I'm Alex 👋
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/wiki/Special:Contributions/Tuty4amxx) and play videogames. <img alt="OK" width="20px" height="20px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
@@ -8,7 +8,7 @@
 - ⚗️ I'm a massive fan of Mario and all Mario Nintendo Switch games!
 - ⚙️ Daily usage of: `JavaScript`, `HTML`, `Vue`, `Jest`, `Mocha`, `TypeScript`, `NPM`, `MongoDB` and `Express`
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,9 +31,9 @@
 <img align="left" alt="MongoDB" width="20px" src="https://i.imgur.com/Hu2ENNn.png" />
 <img align="left" alt="AWS LAmbda" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" />
 <img align="left" alt="Mocha.js" width="20px" src="https://i.imgur.com/y8sjj3X.png" />
-<br />
+<br /> <br />
 
-### Operating Systems Used:
+## Operating Systems Used:
 
 <img align="left" alt="Windows 10 Pro" height="26px" width="26px" src="https://sm.pcmag.com/pcmag_in/photo/default/windows-10-placeholder_uyqw.jpg" />
 <img align="left" alt="Ubuntu" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
