@@ -15,7 +15,7 @@
 <img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="jQuery" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Vue.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="20px" src="https://i.imgur.com/LTF8Tmi.png" />
 <img align="left" alt="Express.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
 <img align="left" alt="Electron.js" width="20px" src="https://i.imgur.com/kRwtOcG.png" />
 <img align="left" alt="NPM" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
@@ -30,7 +30,6 @@
 <img align="left" alt="MongoDB" width="20px" src="https://i.imgur.com/Hu2ENNn.png" />
 <img align="left" alt="AWS LAmbda" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" />
 <img align="left" alt="Mocha.js" width="20px" src="https://i.imgur.com/y8sjj3X.png" />
-
 <br />
 
 ### Operating Systems Used:
