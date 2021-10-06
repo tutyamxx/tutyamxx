@@ -6,7 +6,6 @@
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
 - 🕵️ I am a moderator on [DotagiftX](https://dotagiftx.com/) official Discord server and the developer of the official DotagiftX Discord Bot!
 - ⚗️ I'm a massive fan of Mario and all Mario Nintendo Switch games!
-- ⚙️ Daily usage of: `JavaScript`, `HTML`, `Vue`, `React`, `Jest`, `Mocha`, `TypeScript`, `NPM`, `MongoDB` and `Express`
 
 ## Languages and Tools:
 
