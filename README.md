@@ -6,7 +6,7 @@
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
 - 🕵️ I am a moderator on [DotagiftX](https://dotagiftx.com/) official Discord server and the developer of the official DotagiftX Discord Bot!
 - ⚗️ I'm a massive fan of Mario and all Mario Nintendo Switch games!
-- ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI` and `EC2` at the moment
+- ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI`, `EC2`, `Heroku` and `Digital Ocean` at the moment
 
 ## Languages and Tools:
 
