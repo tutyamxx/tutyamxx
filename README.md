@@ -43,5 +43,5 @@
 <br /> <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&count_private=true&theme=tokyonight" /> <img src="https://i.imgur.com/QGo5isT.gif" width="200" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&count_private=true&theme=tokyonight" /> <img src="https://media.tenor.com/0rvmgkh3zXoAAAAC/super-mario-bros-movie-2023-running.gif" width="190" height="196"/>
 </p>
