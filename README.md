@@ -5,7 +5,6 @@
 - 🌱 I’m currently trying to learn everything I can 🤣
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
 - 🕵️ I was a moderator on [DotagiftX](https://dotagiftx.com/) official Discord server and the developer of the official DotagiftX Discord Bot!
-- ⚗️ I'm a massive fan of Mario and all Mario Nintendo Switch games!
 - ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI`, `EC2`, `Heroku` and `Digital Ocean` at the moment
 
 ## Languages and Tools:
@@ -41,7 +40,3 @@
 <img align="left" alt="Raspberry Pi" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 
 <br /> <br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutyamxx&show_icons=true&count_private=true&theme=tokyonight" /> <img src="https://media.tenor.com/0rvmgkh3zXoAAAAC/super-mario-bros-movie-2023-running.gif" width="190" height="196"/>
-</p>
