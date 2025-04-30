@@ -16,6 +16,8 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="border-radius: 50%;" alt="VS Code"/>
+   <!-- Visual Studio Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="border-radius: 50%;" alt="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="border-radius: 50%;" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="border-radius: 50%;" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius: 50%;" alt="JavaScript"/>
@@ -35,6 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="border-radius: 50%;" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="border-radius: 50%;" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" style="border-radius: 50%;" alt="Mocha.js"/>
+  
+  <!-- Cursor.AI Icon -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/light/cursor.png" width="40" height="40" style="border-radius: 50%;" alt="Cursor.AI"/>
 </p>
 
 ---
