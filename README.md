@@ -40,14 +40,14 @@
 
 ---
 
-## 💻 Operating Systems Used:
+## 💻 Operating Systems Used
 
-<img align="left" alt="Windows 10 Pro" height="26px" width="26px" src="https://sm.pcmag.com/pcmag_in/photo/default/windows-10-placeholder_uyqw.jpg" />
-<img align="left" alt="Ubuntu" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-<img align="left" alt="Mac OS" height="26px" width="26px" src="https://i.imgur.com/yXOVLm2.png" />
-<img align="left" alt="Raspberry Pi" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-
-<br /> <br />
+<p align="left">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
 
 ---
 
