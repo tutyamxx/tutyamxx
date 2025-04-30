@@ -1,13 +1,19 @@
-## About me
 
-- 👀 Hi there, I'm Alex 👋
-- 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/w/index.php?title=Special:Contributions/Tuty4amxx&offset=&limit=500&target=Tuty4amxx) and play videogames. <img alt="OK" width="20px" height="20px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
-- 🌱 I’m currently trying to learn everything I can 🤣
-- 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)
-- 🕵️ I was a moderator on [DotagiftX](https://dotagiftx.com/) official Discord server and the developer of the official DotagiftX Discord Bot!
-- ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI`, `EC2`, `Heroku` and `Digital Ocean` at the moment
+---
 
-## Languages and Tools:
+## 👨‍💻 About Me
+
+- 👀 Hi there, I'm Alex 👋  
+- 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/w/index.php?title=Special:Contributions/Tuty4amxx&offset=&limit=500&target=Tuty4amxx) and play videogames.  
+  <img alt="OK" width="20px" height="20px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
+- 🌱 I’m currently trying to learn everything I can 🤣  
+- 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)  
+- 🕵️ I was a moderator on [DotagiftX](https://dotagiftx.com/) official Discord server and the developer of the official DotagiftX Discord Bot!  
+- ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI`, `EC2`, `Heroku`, and `Digital Ocean`
+
+---
+
+## 🛠️ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,11 +34,13 @@
 <img align="left" alt="Travis CI" width="20px" src="https://avatars1.githubusercontent.com/ml/4?s=140&v=4" />
 <img align="left" alt="TypeScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="MongoDB" width="20px" src="https://i.imgur.com/Hu2ENNn.png" />
-<img align="left" alt="AWS LAmbda" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" />
+<img align="left" alt="AWS Lambda" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" />
 <img align="left" alt="Mocha.js" width="20px" src="https://i.imgur.com/y8sjj3X.png" />
 <br /> <br />
 
-## Operating Systems Used:
+---
+
+## 💻 Operating Systems Used:
 
 <img align="left" alt="Windows 10 Pro" height="26px" width="26px" src="https://sm.pcmag.com/pcmag_in/photo/default/windows-10-placeholder_uyqw.jpg" />
 <img align="left" alt="Ubuntu" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
@@ -40,3 +48,13 @@
 <img align="left" alt="Raspberry Pi" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 
 <br /> <br />
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tuty4amxx&theme=algolia&no-frame=true&column=6&margin-w=15" alt="trophies" />
+</p>
+
+---
