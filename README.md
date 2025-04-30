@@ -40,6 +40,7 @@
   
   <!-- Cursor.AI Icon -->
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/light/cursor.png" width="40" height="40" style="border-radius: 50%;" alt="Cursor.AI"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" style="border-radius: 50%;" alt="Vercel"/>
 </p>
 
 ---
