@@ -52,14 +52,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tuty4amxx&theme=algolia&no-frame=true&column=6&margin-w=15" alt="trophies" />
-</p>
-
----
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tuty4amxx&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
