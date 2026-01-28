@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - 👀 Hi there, I'm Alex 👋
-- 🏖️ I built [🏖️ npmrunner.com](https://npmrunner.com)
+- 🏖️ I built [npmrunner.com](https://npmrunner.com)
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/w/index.php?title=Special:Contributions/Tuty4amxx&offset=&limit=500&target=Tuty4amxx) and play videogames.  
   <img alt="OK" width="20px" height="20px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
 - 🌱 I’m currently trying to learn everything I can 🤣  
