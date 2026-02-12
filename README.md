@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 About Me
 
 - 👀 Hi there, I'm Alex 👋
@@ -9,8 +7,6 @@
 - 🌱 I’m currently trying to learn everything I can 🤣  
 - 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx)  
 - ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI`, `EC2`, `Heroku`, and `Digital Ocean`
-
----
 
 ## 🛠️ Languages and Tools:
 
@@ -39,8 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" style="border-radius: 50%;" alt="Mocha.js"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" style="border-radius: 50%;" alt="Vercel"/>
 </p>
-
----
 
 ## 💻 Operating Systems Used
 
