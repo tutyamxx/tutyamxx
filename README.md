@@ -5,7 +5,7 @@
 - 👨‍💻 I build and break computer applications, edit [@PCGamingWiki](https://www.pcgamingwiki.com/w/index.php?title=Special:Contributions/Tuty4amxx&offset=&limit=500&target=Tuty4amxx) and play videogames.  
   <img alt="OK" width="20px" height="20px" src="https://emoji.gg/assets/emoji/9109_Sad_Cat_Thumbs_Up.png">
 - 🌱 I’m currently trying to learn everything I can 🤣  
-- 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx) with over <strong>10</strong> open source packages that I maintain.
+- 📦 My [NPM Profile](https://www.npmjs.com/~tutyamxx) with <strong>16+</strong> open source packages that I maintain.
 - ☁️ Knowledge in `Cloud Formation`, `AWS Lambda`, `Step Functions`, `API Gateway`, `S3 Buckets`, `IAM`, `SAM/AWS CLI`, `EC2`, `Heroku`, `Digital Ocean`, `Vercel` etc.
 
 ## 🛠️ Languages and Tools:
